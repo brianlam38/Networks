@@ -44,7 +44,7 @@ pluggy==0.5.0
 prompt-toolkit==1.0.15
 ptpython==0.41
 ptyprocess==0.5.2
-py==1.4.34
+py==1.10.0
 PyAudio==0.2.11
 pycodestyle==2.3.1
 pycscope==1.2.1
